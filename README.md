@@ -1,7 +1,7 @@
 # Snap_Food_Sentiment_Analysis_BERT
 
 🚀 Fine-Tuning BERT on Persian Food Reviews 🇮🇷🍔
-Today I explored training a sentiment analysis model for SnapFood user reviews in Persian (Farsi) — with a fun twist: cooling my laptop using a block of ice 😅💧
+Today I explored training a sentiment analysis model for SnapFood user reviews in Persian (Farsi) 
 
 🧠 Goal:
 Classify 52,000 Persian reviews as Positive or Negative using BERT.
